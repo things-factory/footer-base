@@ -1,6 +1,6 @@
 {
   "name": "@things-factory/footer-base",
-  "version": "1.0.0-alpha.1",
+  "version": "2.0.0",
   "main": "src/index.js",
   "things-factory": true,
   "license": "MIT",
@@ -10,7 +10,7 @@
     "serve:dev": "webpack-dev-server --config ./node_modules/@things-factory/shell/webpack.config.dev.js"
   },
   "dependencies": {
-    "@things-factory/shell": "^1.0.0-alpha.1"
+    "@things-factory/shell": "^2.0.0"
   },
   "devDependencies": {}
 }
